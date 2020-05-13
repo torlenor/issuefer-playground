@@ -1,6 +1,5 @@
 // TODO (#25): This is a todo which shall be converted to a GitHub issue
     
 fn main() -> Result<(), Box<dyn Error>> {
-    // TODO (#26): This is another issue which shall be converted to a GitHub issue.
     Ok(())
 }
